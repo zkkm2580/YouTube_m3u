@@ -2,8 +2,8 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-연합뉴스TV | 韩国 |  |
-https://www.youtube.com/watch?v=0GN8t2u3flc/live
+新闻大白话 | 台湾 |  |
+https://www.youtube.com/watch?v=c_DqXhR4pEA
 
 CCTV4 | China |  |
 https://www.youtube.com/watch?v=QTz6avPD4Ns
