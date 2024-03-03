@@ -2,23 +2,6 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-新闻大白话 | 台湾 |  |
-https://m.youtube.com/watch?v=-0KQJwHmBQM
-
-广西卫视 | China |  |
-https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
-4K | 4k |  |
-https://m.youtube.com/watch?v=rkPCR6Ujtak
-
-4K | 4k |  |
-https://www.youtube.com/watch?v=tAuXNZ5TSlA
-
-空间站1 | 世界 |  |
-https://www.youtube.com/watch?v=86YLFOog4GM&feature=youtu.be
-
-空间站2 | 世界 |  |
-https://www.youtube.com/watch?v=ddZu_1Z3BAc
-
 中天新闻 |台湾||
 https://www.youtube.com/watch?v=oIgbl7t0S_w
 
@@ -37,32 +20,8 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 寰宇新聞台 |台湾||
 https://www.youtube.com/watch?v=6IquAgfvYmc
 
-国家地理 |世界||
-https://m.youtube.com/watch?v=6zGV59Ldp3s
-
-YTN | 韩国 |  |
-https://www.youtube.com/watch?v=vEO6wO0QsX8
-
-KBS | 韩国 |  |
-https://www.youtube.com/watch?v=1WhB1z0bWGs
-
-熊猫直播  |世界||
-https://www.youtube.com/watch?v=gNGolYPBy2E
-
-ABC  |英语||
-https://www.youtube.com/watch?v=w_Ma8oQLmSM
-
 凤凰卫视HD  |香港||
 https://www.youtube.com/watch?v=0K6C6Rv4RR4
-
-热门音乐  |香港||
-https://www.youtube.com/watch?v=wrYF0HX7Kzc
-
-欧美音乐  |香港||
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-欧美音乐1  |香港||
-https://www.youtube.com/watch?v=oVu-aAMV9c8
 
 三立新闻 |台湾||
 https://www.youtube.com/watch?v=oZdzzvxTfUY
@@ -76,5 +35,3 @@ https://www.youtube.com/watch?v=WHEPzbFA3hw
 不良林节点 |||
 https://www.youtube.com/watch?v=qmRkvKo-KbQ&pp=ygUJ5LiN6Imv5p6X
 
-DX | word||
-https://m.youtube.com/watch?v=8n61UG708S4
